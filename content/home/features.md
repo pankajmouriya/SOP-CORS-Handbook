@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Features"
-subtitle = "Document _anything_ ✨"
+title = "The Tangled Web - Understanding the Fundamentals "
+subtitle = "A complete _Guide_ ✨"
 
 # Showcase features.
 # 
@@ -17,19 +17,19 @@ subtitle = "Document _anything_ ✨"
 [[feature]]
   icon = "book-open"
   icon_pack = "fas"
-  name = "Project Documentation"
-  description = "For users"
-  
-[[feature]]
-  icon = "question"
-  icon_pack = "fas"
-  name = "Knowledge Base"
-  description = "For teams"  
+  name = "Read"
+  description = "To Learn"
   
 [[feature]]
   icon = "list-alt"
   icon_pack = "fas"
-  name = "Personal Notebook"
+  name = "Experiment"
+  description = "For Better Understanding"  
+  
+[[feature]]
+  icon = "question"
+  icon_pack = "fas"
+  name = "Ask Questions"
   description = "For yourself"
 
 # Uncomment to use emoji icons.
@@ -49,3 +49,5 @@ subtitle = "Document _anything_ ✨"
 #  description = "90%"
 
 +++
+
+<a style="text-decoration: none;" href="http://localhost:1313/docs"><b><h1>Click me To get Started</h1></b></a>
